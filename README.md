@@ -50,6 +50,10 @@ Then configure the rules you want to use under the rules section.
 
 * `njakob/example`: Just an example
 
+## Licences
+
+Eslint-plugin-njakob is licensed under the [MIT License][licence].
+
 [eslint]: http://eslint.org
 [licence]: LICENSE
 [npm]: https://nodei.co/npm/eslint-plugin-njakob/
